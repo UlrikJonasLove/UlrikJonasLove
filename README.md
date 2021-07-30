@@ -8,7 +8,6 @@
 
 ## Working With & learning
 <span><img src="https://toppng.com/uploads/preview/javascript-html5-and-css-html-css-js-badge-115630076742dl7bdlbaf.png" width="70px" ></span>
-<span><img src="https://toppng.com/uploads/preview/html-css-js-icons-11563328364gmstz4ubs9.png" width="70px" ></span>
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="70px" ></span>
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="70px" ></span>
 <span><img src="https://w7.pngwing.com/pngs/340/226/png-transparent-purple-and-white-logo-c-computer-programming-software-development-programmer-marklogic-coder-miscellaneous-purple-class.png" width="70px" ></span>
