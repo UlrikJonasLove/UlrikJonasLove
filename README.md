@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlrikJonasLove&layout=compact&theme=dark&card_width=450)](https://github.com/UlrikJonasLove/github-readme-stats)
 
 ## Working With & learning
-<span><img src="https://i.pinimg.com/originals/52/2e/6b/522e6bc1a11d1726a35f81cbd979395f.jpg" width="70px" ></span>
+<span><img src="https://w7.pngwing.com/pngs/581/330/png-transparent-logo-cascading-style-sheets-html5-css3-prags-html5-und-css3-der-meisterkurs-html5-css3-javascript-design-text-trademark-logo.png" width="70px" ></span>
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="80px" ></span>
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="70px" ></span>
 <span><img src="https://www.cnjobs.dk/drupal/sites/default/files/2019-01/csharp-01.png" width="70px" ></span>
