@@ -1,4 +1,5 @@
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
+  
 # Ulrik Jonas Love
 ## Lets Connect
 <span><a href="https://www.linkedin.com/in/ulrikrosberg/" target="_blank"><img src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" width="80px"><a/></span>
