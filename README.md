@@ -1,3 +1,4 @@
+<div style="display: flex; justify-content: center; align-items: center;">
 # Ulrik Jonas Love
 ## Lets Connect
 <span><a href="https://www.linkedin.com/in/ulrikrosberg/" target="_blank"><img src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" width="80px"><a/></span>
@@ -22,3 +23,4 @@
 <span><img src="https://iconape.com/wp-content/png_logo_vector/csharp-logo.png" width="65px" ></span>
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="70px" ></span>
 <span><img src="https://www.authority.se/img/umbraco_logo_blue1_641.png" width="110px" ></span>
+</div>
