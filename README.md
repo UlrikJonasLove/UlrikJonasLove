@@ -3,7 +3,7 @@
 # Ulrik Jonas Love
 ## Lets Connect
 <span><a href="https://www.linkedin.com/in/ulrikrosberg/" target="_blank"><img src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" width="80px"><a/></span>
-<span><a href="https://www.instagram.com/ulrik.love/" targer="_blank"><img src="https://www.goldgraphics.se/wp-content/uploads/2018/10/instagram-logo-png-transparent-background-800x799.png" width="80px"><a/></span>
+<span><a href="https://www.instagram.com/ulriklove/" targer="_blank"><img src="[https://www.goldgraphics.se/wp-content/uploads/2018/10/instagram-logo-png-transparent-background-800x799.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png)" width="80px"><a/></span>
 
 ##
   
